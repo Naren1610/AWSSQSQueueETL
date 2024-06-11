@@ -18,7 +18,7 @@ Data Engineering Take Home: ETL off a SQS Queue
 ### Running the Project
 1. Navigate to the project directory:
     ```sh
-    cd your-project-directory
+    cd project-directory
     ```
 2. Start the localstack and Postgres services using Docker Compose:
     ```sh
@@ -26,7 +26,7 @@ Data Engineering Take Home: ETL off a SQS Queue
     ```
 3. Open a new terminal window and run the Python script:
     ```sh
-    python3 etl_script.py
+    python3 testScript.py
     ```
 
 ### Thought Process
