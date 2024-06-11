@@ -3,8 +3,8 @@ Data Engineering Take Home: ETL off a SQS Queue
  Data Engineering Take Home: ETL off a SQS Queue
 
  ## Objective
-- Read JSON data from an AWS SQS Queue.
-- Mask PII fields (`device_id` and `ip`).
+- Read data from an AWS SQS Queue.
+- Mask PII fields in a way people can identify the duplicate values (`device_id` and `ip`).
 - Write each record to a Postgres database.
 
 ## Setup Instructions
