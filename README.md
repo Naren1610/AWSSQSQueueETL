@@ -1,6 +1,4 @@
-# TakeHomeTest
-Data Engineering Take Home: ETL off a SQS Queue
- Data Engineering Take Home: ETL off a SQS Queue
+# ETL off a AWS SQS Queue
 
  ## Objective
 - Read data from an AWS SQS Queue.
